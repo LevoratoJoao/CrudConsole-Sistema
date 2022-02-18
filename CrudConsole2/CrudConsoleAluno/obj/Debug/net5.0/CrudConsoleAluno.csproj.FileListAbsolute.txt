@@ -1,0 +1,46 @@
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.exe
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.deps.json
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.runtimeconfig.json
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.runtimeconfig.dev.json
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\ref\CrudConsoleAluno.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.pdb
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.AssemblyReference.cache
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.AssemblyInfoInputs.cache
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.AssemblyInfo.cs
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.CoreCompileInputs.cache
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\ref\CrudConsoleAluno.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.pdb
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.genruntimeconfig.cache
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TFI_Curso\Projetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.CopyComplete
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.exe
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.deps.json
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.runtimeconfig.json
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.runtimeconfig.dev.json
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\ref\CrudConsoleAluno.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\CrudConsoleAluno.pdb
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.AssemblyReference.cache
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.AssemblyInfoInputs.cache
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.AssemblyInfo.cs
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.CoreCompileInputs.cache
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.csproj.CopyComplete
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\ref\CrudConsoleAluno.dll
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.pdb
+D:\Desktop\Nova pasta\PrimeirosProjetos\Fontes\CrudConsole2\CrudConsoleAluno\CrudConsoleAluno\obj\Debug\net5.0\CrudConsoleAluno.genruntimeconfig.cache

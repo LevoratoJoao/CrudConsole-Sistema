@@ -1,0 +1,45 @@
+--CREATE CURSO
+--CURSO
+--IDCURSO INTEIRO (PK)
+--DESCRICAO TEXTO
+--PERIODO INTEIRO
+--VALOR DO CURSO(9,2)
+
+--CREATE ALUNO
+--ALUNO
+--MAT INTEIRO (PK)
+--NOME TEXTO
+--CPF TEXTO
+--EMAIL TEXTO
+--TELEFONE TEXTO
+--CIDADE TEXTO
+--UF TEXTO
+--IDCURSO INTEIRO (FK - RELACIONAMENTO CURSO)
+
+create table CURSO(
+IDCURSO int not null,
+DESCRICAO varchar(50) not null,
+PERIODO int not null,
+VALOR decimal(9,2) not null,
+primary key (IDCURSO)
+);
+
+
+create table ALUNO(
+MAT int not null,
+NOME varchar (100) not null,
+CPF varchar (14) not null,
+EMAIL varchar (50) not null,
+TELEFONE varchar (20) not null,
+CIDADE varchar (50) not null,
+UF varchar (2),
+IDCURSO integer not null,
+PRIMARY key (MAT),
+FOREIgn key (IDCURSO) references CURSO(IDCURSO)
+);
+
+INSERT INTO CURSO VALUES (1, 'DIREITO', 48, 80000);
+INSERT INTO CURSO VALUES (3, 'ENGENHARIA DA COMPUTAÇÃO', 48, 90000);
+select * from CURSO;
+INSERT INTO ALUNO VALUES (3, 'ANDERSON','123.123.123-00','ANDERSON@GMAIL.COM','(43)12345-4321','LONDRINA','PR',3);
+select *from ALUNO;
